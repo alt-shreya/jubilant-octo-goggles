@@ -10,5 +10,7 @@ Keep your eyes peeled and your goggles eeled.
 - snooze options
 ## Motorbike
 - nice UI
+- people can see what they've spent time on - Co:here
+- add nice generative content from Co:here
 ## Car
 - other platform Support
