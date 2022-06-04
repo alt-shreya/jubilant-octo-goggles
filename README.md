@@ -1,2 +1,2 @@
 # jubilant-octo-goggles
-I'm learning Flutter, baby
+Keep your eyes peeled and your goggles eeled.
